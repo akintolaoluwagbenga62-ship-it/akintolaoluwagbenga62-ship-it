@@ -1,10 +1,9 @@
-# Hi, I'm sagedev 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Frontend+Developer;Mobile+Developer;Shipping+clean+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=sagedev&fontSize=50&fontColor=7aa2f7&desc=%F0%9F%9A%80%20Frontend%20%26%20Mobile%20Developer&descAlignY=70&descAlign=50" alt="SageDev Banner" />
 </p>
 
 <p align="center">
+  <br>
   <a href="mailto:akintolaoluwagbenga62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/Pipersage243555"><img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
