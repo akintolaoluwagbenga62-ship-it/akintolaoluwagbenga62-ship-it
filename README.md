@@ -1,39 +1,156 @@
-# sagedev
+# SAGEDEV
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=550&lines=S+A+G+E+D+E+V;%F0%9F%9A%80+SHIPPING+MOBILE+%26+WEB;%F0%9F%A4%96+AI assistant+powered development" alt="Typing Animation" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Flutter+Developer;React+Developer;AI+Powered+Development;Design.+Build.+Ship." />
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=sagedev&fontSize=50&fontColor=ffffff&fontAlignY=45&theme=dark" width="100%" alt="3D Render Header" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=SAGEDEV&fontColor=FFFFFF&fontSize=72&animation=fadeIn"/>
+
 </p>
 
-### Transmission
-
-Breaking limits with **Flutter and react native ** for cross-platform mobile experiences, commanding the frontend with **HTML / CSS / JS**, and hyper-accelerating complex development cycles alongside ,**Claude AI**.
-
----
-
-### 💻 System Matrix
-
-| 📡 Current Ops | ⚡ System Specs |
-| :--- | :--- |
-| 🔭 **Focus:** Shipping ultra-clean mobile layouts | 💬 **Inquire:** UI logic & AI workflows |
-| 🌱 **Learning:** Advanced state architectures | 🔥 **Blueprint:** Build fast. Ship instantly. |
-
----
-
-### 🛠️ Tech Stack Matrix
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
+
+<img src="https://komarev.com/ghpvc/?username=akintoladoluwagbenga62-ship-it&label=PROFILE+VIEWS&style=for-the-badge&color=000000"/>
+
 </p>
 
 ---
 
-### 📊 System Diagnostics
+## Terminal
+
+```console
+$ whoami
+
+Sage
+
+$ role
+
+Frontend Developer
+
+$ focus
+
+Flutter
+React
+JavaScript
+AI-Assisted Development
+
+$ currently_learning
+
+Advanced Flutter
+Backend Systems
+AI Engineering
+
+$ philosophy
+
+Design.
+Build.
+Ship.
+```
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akintoladoluwagbenga62-ship-it&show_icons=true&theme=dark&hide_border=false&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&bg_color=000000" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintoladoluwagbenga62-ship-it&layout=compact&theme=dark&hide_border=false&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&bg_color=000000" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,js,typescript,nodejs,express,firebase,supabase,git,github,vscode,figma&theme=dark"/>
+
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=akintoladoluwagbenga62-ship-it&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintoladoluwagbenga62-ship-it&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=akintoladoluwagbenga62-ship-it&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akintoladoluwagbenga62-ship-it&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akintoladoluwagbenga62-ship-it&theme=algolia&column=4&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+## 3D Contribution Skyline
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://github.com/akintoladoluwagbenga62-ship-it">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/yourusername">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> "Good software is invisible. Great software feels inevitable."
+
 </p>
