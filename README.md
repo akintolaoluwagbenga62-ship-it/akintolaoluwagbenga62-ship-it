@@ -1,50 +1,47 @@
-# SAGEDEV
+<!-- ========================= -->
+<!--         HEADER            -->
+<!-- ========================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Flutter+Developer;React+Developer;AI+Powered+Development;Design.+Build.+Ship." />
-
+  <img src="./assets/liquid-glass-header.png" width="100%" alt="sagedev"/>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=SAGEDEV&fontColor=FFFFFF&fontSize=72&animation=fadeIn"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=frontend+developer;flutter+developer;react+developer;building+beautiful+software;ai-assisted+development" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akintoladoluwagbenga62-ship-it&label=PROFILE+VIEWS&style=for-the-badge&color=000000"/>
-
+  <img src="https://komarev.com/ghpvc/?username=akintoladoluwagbenga62-ship-it&style=for-the-badge&color=black" />
 </p>
 
 ---
 
-## Terminal
+# about
 
 ```console
 $ whoami
 
-Sage
+sage
 
 $ role
 
 Frontend Developer
 
-$ focus
+$ stack
 
 Flutter
 React
 JavaScript
-AI-Assisted Development
+TypeScript
+Node.js
 
 $ currently_learning
 
-Advanced Flutter
-Backend Systems
+Backend Development
 AI Engineering
+System Design
 
-$ philosophy
+$ mission
 
 Design.
 Build.
@@ -53,39 +50,39 @@ Ship.
 
 ---
 
-## Tech Stack
+# tech stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,js,typescript,nodejs,express,firebase,supabase,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,js,ts,nodejs,express,firebase,supabase,git,github,vscode,figma,tailwind&theme=dark"/>
 
 </p>
 
 ---
 
-## GitHub Statistics
+# github stats
 
 <p align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=akintoladoluwagbenga62-ship-it&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akintoladoluwagbenga62-ship-it&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintoladoluwagbenga62-ship-it&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintoladoluwagbenga62-ship-it&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## Contribution Streak
+# streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=akintoladoluwagbenga62-ship-it&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=akintoladoluwagbenga62-ship-it&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## Activity Graph
+# contribution graph
 
 <p align="center">
 
@@ -95,54 +92,48 @@ Ship.
 
 ---
 
-## Achievements
+# trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akintoladoluwagbenga62-ship-it&theme=algolia&column=4&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akintoladoluwagbenga62-ship-it&theme=algolia&no-bg=true&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-## 3D Contribution Skyline
+# currently building
 
-<p align="center">
+```text
+• Mobile Applications
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-night-rainbow.svg"/>
+• Modern React Interfaces
 
-</p>
+• AI Powered Tools
 
----
-
-## Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+• Beautiful UI Systems
+```
 
 ---
 
-## Connect
+# connect
 
 <p align="center">
 
 <a href="https://github.com/akintoladoluwagbenga62-ship-it">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/yourname">
+<img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/yourusername">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
@@ -151,6 +142,6 @@ Ship.
 
 <p align="center">
 
-> "Good software is invisible. Great software feels inevitable."
+*"Good software is invisible. Great software feels inevitable."*
 
 </p>
