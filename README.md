@@ -1,16 +1,16 @@
-# ⚡ sagedev
+# sagedev
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=550&lines=S+A+G+E+D+E+V;%F0%9F%9A%80+SHIPPING+MOBILE+%26+WEB;%F0%9F%A4%96+AI-POWERED+DEVELOPMENT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&pause=800&color=FFFFFF&center=true&vCenter=true&width=550&lines=S+A+G+E+D+E+V;%F0%9F%9A%80+SHIPPING+MOBILE+%26+WEB;%F0%9F%A4%96+AI assistant+powered development" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=sagedev&fontSize=50&fontColor=ffffff&fontAlignY=45&theme=dark" width="100%" alt="3D Render Header" />
 </p>
 
-### 🛰️ Transmission
+### Transmission
 
-Breaking limits with **Flutter** for cross-platform mobile experiences, commanding the frontend with **HTML / CSS / JS**, and hyper-accelerating complex development cycles alongside **Claude AI**.
+Breaking limits with **Flutter and react native ** for cross-platform mobile experiences, commanding the frontend with **HTML / CSS / JS**, and hyper-accelerating complex development cycles alongside ,**Claude AI**.
 
 ---
 
