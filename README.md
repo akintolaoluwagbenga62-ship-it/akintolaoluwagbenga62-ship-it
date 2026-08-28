@@ -1,39 +1,97 @@
-# sage.dev
+<!-- ========================= -->
+<!--          HEADER           -->
+<!-- ========================= -->
 
 <p align="center">
-  <strong>Software Engineer · Frontend Developer · Flutter Developer</strong>
+  <img src="./assets/liquid-glass-header.png" width="100%" alt="sagedev"/>
 </p>
 
 <p align="center">
-  Software Engineering Student @ Obafemi Awolowo University
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=software+engineering+student;frontend+%2B+flutter+developer;full-stack+developer+in+progress;learning+AI+engineering;exploring+web+%26+cyber+security;design.+build.+learn.+ship." />
 </p>
 
 <p align="center">
-  Building for the web, mobile, and beyond.
+  <img src="https://komarev.com/ghpvc/?username=akintoladoluwagbenga62-ship-it&style=for-the-badge&color=000000" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/akintoladoluwagbenga62-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👋 about me
+## 👋 whoami
 
-Hey, I'm **Sage** — a software engineering student at **Obafemi Awolowo University (OAU)** and a developer who enjoys turning ideas into real, usable software.
+```console
+$ whoami
+sage
 
-My main focus is **frontend development**, where I enjoy creating clean, responsive, interactive, and polished user interfaces.
+$ education
+Software Engineering Student @ Obafemi Awolowo University
 
-I'm also comfortable working beyond the frontend. I can **connect applications to APIs, integrate third-party services, work with databases and authentication, connect frontend applications to backend services, and deploy applications.**
+$ role
+Frontend Developer · Flutter Developer · Software Engineer
 
-I'm continuously expanding my knowledge across **backend development, AI Engineering, web security, cybersecurity, and system design.**
+$ stack
+HTML · CSS · JavaScript · TypeScript
+React · Next.js · Tailwind CSS
+Flutter · Dart
+Node.js · Express
+Firebase · Supabase
+REST APIs · API Integration
 
-I enjoy learning by building, experimenting with new technologies, solving problems, and understanding how the different parts of modern software systems work together.
+$ currently_learning
+AI Engineering
+Backend Development
+Web Security
+Cybersecurity
+System Design
+
+$ mindset
+Build. Learn. Break. Fix. Improve.
+
+$ mission
+Ship things people actually use.
+```
+
+---
+
+## 🧑🏽‍💻 about me
+
+Hey, I'm **Sage** — a Software Engineering student at **Obafemi Awolowo University (OAU)** and a developer who enjoys turning ideas into real software.
+
+My main focus is **frontend development**, where I enjoy transforming ideas and designs into clean, responsive, interactive, and polished interfaces.
+
+I also work beyond the frontend. I can **connect APIs, integrate third-party services, work with databases, handle authentication, connect frontend applications to backend services, and deploy applications.**
+
+I enjoy understanding how the different parts of an application communicate — from the user interface and APIs to backend services, databases, authentication systems, and external platforms.
+
+I'm currently growing into a stronger full-stack developer while learning **AI Engineering, Backend Development, Web Security, Cybersecurity, and System Design.**
+
+I learn mostly by building, experimenting, researching, breaking things, fixing them, and continuously improving.
 
 ---
 
 ## 🎓 education
 
-**Obafemi Awolowo University (OAU)**  
-Software Engineering
+### Obafemi Awolowo University
 
-Currently studying Software Engineering while developing my skills across frontend, backend, mobile development, AI, and security.
+**B.Sc. Software Engineering**
+
+I'm currently studying Software Engineering while building practical skills outside the classroom.
+
+I'm interested in the different layers of modern software development — from user interfaces and mobile applications to APIs, backend systems, databases, AI, security, and system architecture.
 
 ---
 
@@ -41,151 +99,273 @@ Currently studying Software Engineering while developing my skills across fronte
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+**HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS**
 
-I enjoy building responsive interfaces, reusable components, interactive experiences, and modern web applications.
+I enjoy building responsive and modern web interfaces with attention to usability, component structure, performance, accessibility, animations, and overall user experience.
 
 ---
 
 ### 📱 Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
 </p>
 
-`Flutter` · `Dart`
+**Flutter · Dart**
 
-I use Flutter to explore cross-platform mobile development and build applications that provide a consistent experience across devices.
+I use Flutter to explore cross-platform mobile development and build applications with clean interfaces and practical user experiences.
 
 ---
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-`Node.js` · `Express.js` · `REST APIs` · `API Integration`
+**Node.js · Express.js**
 
-I can connect frontend applications to APIs and backend services, work with request/response data, handle authentication flows, and integrate external services.
-
-I'm also continuing to improve my backend development skills and understanding of production systems.
+I'm continuously improving my backend skills and learning more about server-side development, APIs, authentication, databases, architecture, and production systems.
 
 ---
 
-### 🗄️ Databases & Services
+### 🔌 APIs & Integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+**REST APIs · API Integration · Third-party APIs · JSON · Authentication**
+
+I can connect frontend applications to APIs and external services, handle requests and responses, work with authentication flows, and integrate third-party functionality into applications.
+
+I enjoy connecting different services together and making them work as one system.
+
+---
+
+### 🗄️ Databases & Backend Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark"/>
 </p>
 
-`Firebase` · `Supabase` · `Authentication` · `Database Management`
+**Firebase · Supabase**
 
-I work with backend-as-a-service platforms for authentication, databases, application data, and other backend functionality.
+I'm familiar with working with:
+
+- Database management
+- Authentication
+- User data
+- Backend services
+- API-connected data
+- Cloud services
+- Application state
+- Application deployment
 
 ---
 
 ## 🤖 AI Engineering
 
-I'm currently learning **AI Engineering** and exploring how AI can be integrated into real-world software applications.
+I'm currently learning **AI Engineering** and exploring how AI can be integrated into real software products.
+
+I'm interested in understanding how AI systems work and how developers can build useful applications around them.
 
 Areas I'm exploring include:
 
-- AI application development
-- LLMs
-- AI APIs
-- LLM integration
-- Prompt engineering
+- AI Engineering
+- Large Language Models
+- LLM APIs
+- AI API integration
+- Prompt Engineering
 - AI-powered applications
 - AI-assisted development
+- AI application architecture
+- AI workflows
 - Connecting AI services to applications
-- Designing applications around AI capabilities
+- Building software around AI capabilities
 
-My goal is to understand AI not just as a user, but as an engineer who can **build useful software around AI systems.**
+My goal is to understand how AI fits into real-world software architecture and eventually become capable of building reliable AI-powered products.
 
 ---
 
 ## 🔐 Web Security & Cybersecurity
 
-I'm also learning about **web security and cybersecurity**, with a focus on understanding how modern applications can be built and tested more securely.
+I'm also learning **Web Security and Cybersecurity** because I believe developers should understand how the applications they build can be attacked, tested, and protected.
 
-Areas I'm exploring include:
+Areas I'm currently exploring include:
 
 - Web application security
 - API security
-- Authentication & authorization
+- Authentication
+- Authorization
 - Secure application architecture
 - Common web vulnerabilities
-- Security testing
 - Vulnerability analysis
-- Data protection
+- Security testing
 - Secure coding practices
+- Data protection
+- Application security
 - Ethical cybersecurity
+- Security-conscious development
 
-I want security to be part of the development process rather than something considered only after an application has been built.
+I'm particularly interested in understanding security from a developer's perspective — building applications with security considered throughout the development process.
 
 ---
 
-## 🛠️ tools & workflow
+## 🧠 System Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+I'm learning how applications work as complete systems rather than just individual pieces of code.
+
+Areas I'm exploring include:
+
+- System architecture
+- Application architecture
+- API architecture
+- Database design
+- Scalability
+- Reliability
+- Authentication flows
+- Service communication
+- Performance
+- Maintainability
+- Security
+- Production environments
+
+---
+
+## 🛠️ tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark"/>
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Figma` · `Vercel`
-
-I use Git and GitHub for version control and collaboration, Figma for interface design and planning, VS Code as my primary development environment, and modern deployment platforms to ship applications.
+**Git · GitHub · VS Code · Figma · Vercel**
 
 ---
 
 ## 🧩 what I can do
 
-- Build responsive web applications
-- Develop modern frontend interfaces
-- Build mobile applications with Flutter
-- Connect applications to APIs
+- Build responsive web interfaces
+- Build React applications
+- Build Next.js applications
+- Build Flutter applications
+- Convert designs into functional interfaces
+- Connect frontend applications to APIs
 - Integrate third-party APIs and services
 - Work with REST APIs
-- Connect frontend applications to backend services
-- Work with databases
-- Implement authentication
-- Integrate AI APIs
-- Build AI-powered application features
+- Connect applications to databases
+- Implement authentication flows
+- Work with Firebase and Supabase
+- Build backend services with Node.js
 - Deploy applications
-- Manage code with Git and GitHub
-- Work with modern JavaScript frameworks
-- Design interfaces and user experiences
-- Apply security-conscious development practices
+- Work with Git and GitHub
+- Integrate AI APIs into applications
+- Build security-conscious applications
+- Learn and apply modern software engineering practices
 
 ---
 
-## 🧠 development mindset
+## 🌱 currently focused on
 
-I believe becoming a good developer is about more than knowing programming languages.
+> Becoming a stronger full-stack developer  
+> Learning AI Engineering  
+> Improving Backend Development  
+> Understanding Web Security  
+> Learning Cybersecurity  
+> Improving System Design  
+> Understanding production systems  
+> Building better user experiences  
+> Writing cleaner and maintainable code  
+> Learning modern API architecture  
+> Understanding application security  
+> Becoming a better software engineer
 
-I try to understand **why** something works, how different systems communicate, how users interact with software, and how applications can be made more reliable and secure.
+---
+
+## 💭 development philosophy
+
+I don't want to only learn how to write code.
+
+I want to understand **why systems work the way they do.**
+
+I enjoy taking an idea, breaking it into smaller problems, designing a solution, building it, connecting the different pieces, testing it, deploying it, and improving it.
 
 My approach is simple:
 
-```text
-Understand
-    ↓
-Plan
-    ↓
-Design
-    ↓
-Build
-    ↓
-Integrate
-    ↓
-Test
-    ↓
-Secure
-    ↓
-Deploy
-    ↓
-Improve
+**Understand → Design → Build → Connect → Test → Secure → Deploy → Improve**
+
+I'm interested in the intersection of **design, software engineering, AI, and security** and how they can come together to create better products.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=akintoladoluwagbenga62-ship-it&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintoladoluwagbenga62-ship-it&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=akintoladoluwagbenga62-ship-it&theme=github-dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akintoladoluwagbenga62-ship-it&theme=github-dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=akintoladoluwagbenga62-ship-it&theme=algolia&no-bg=true&no-frame=true&column=4"
+  />
+</p>
+
+---
+
+## 🤝 let's connect
+
+<p align="center">
+  <a href="https://github.com/akintoladoluwagbenga62-ship-it">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Design. Build. Learn. Ship.</em>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity, creativity, and a lot of debugging.</sub>
+</p>
