@@ -5,8 +5,12 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=torvalds&theme=mac&scale=0.6" alt="sagedev"/>
+  <img src="https://img.shields.io/github/package-json/v/iampavangandhi/Gitwar?color=2948ff&label=Version&style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/github/license/iampavangandhi/Gitwar?color=2948ff&label=License&style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/deployments/iampavangandhi/Gitwar/gitwar?color=2948ff&label=Deployment&style=flat-square" alt="Deployment" />
+  <img src="https://img.shields.io/github/repo-size/iampavangandhi/Gitwar?color=2948ff&label=Repo%20Size&style=flat-square" alt="Repo Size" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=software+engineering+student;frontend+%2B+flutter+developer;full-stack+developer+in+progress;learning+AI+engineering;exploring+web+%26+cyber+security;design.+build.+learn.+ship." />
