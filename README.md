@@ -1,11 +1,12 @@
 <!-- ========================= -->
+
 <!--          HEADER           -->
+
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="sagedev"/>
+  <img src="./assets/liquid-glass-header.png" width="100%" alt="sagedev"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=software+engineering+student;frontend+%2B+flutter+developer;full-stack+developer+in+progress;learning+AI+engineering;exploring+web+%26+cyber+security;design.+build.+learn.+ship." />
@@ -19,13 +20,13 @@
   <a href="https://github.com/akintoladoluwagbenga62-ship-it">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://vercel.app">
+  <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/yourname">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Yourusername">
+  <a href="https://x.com/yourusername">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
@@ -35,16 +36,16 @@
 ## 👋 whoami
 
 ```console
-\$ whoami
+$ whoami
 sage
 
-\$ education
+$ education
 Software Engineering Student @ Obafemi Awolowo University
 
-\$ role
+$ role
 Frontend Developer · Flutter Developer · Software Engineer
 
-\$ stack
+$ stack
 HTML · CSS · JavaScript · TypeScript
 React · Next.js · Tailwind CSS
 Flutter · Dart
@@ -52,17 +53,17 @@ Node.js · Express
 Firebase · Supabase
 REST APIs · API Integration
 
-\$ currently_learning
+$ currently_learning
 AI Engineering
 Backend Development
 Web Security
 Cybersecurity
 System Design
 
-\$ mindset
+$ mindset
 Build. Learn. Break. Fix. Improve.
 
-\$ mission
+$ mission
 Ship things people actually use.
 ```
 
@@ -154,14 +155,14 @@ I enjoy connecting different services together and making them work as one syste
 
 I'm familiar with working with:
 
-- Database management
-- Authentication
-- User data
-- Backend services
-- API-connected data
-- Cloud services
-- Application state
-- Application deployment
+* Database management
+* Authentication
+* User data
+* Backend services
+* API-connected data
+* Cloud services
+* Application state
+* Application deployment
 
 ---
 
@@ -173,17 +174,17 @@ I'm interested in understanding how AI systems work and how developers can build
 
 Areas I'm exploring include:
 
-- AI Engineering
-- Large Language Models
-- LLM APIs
-- AI API integration
-- Prompt Engineering
-- AI-powered applications
-- AI-assisted development
-- AI application architecture
-- AI workflows
-- Connecting AI services to applications
-- Building software around AI capabilities
+* AI Engineering
+* Large Language Models
+* LLM APIs
+* AI API integration
+* Prompt Engineering
+* AI-powered applications
+* AI-assisted development
+* AI application architecture
+* AI workflows
+* Connecting AI services to applications
+* Building software around AI capabilities
 
 My goal is to understand how AI fits into real-world software architecture and eventually become capable of building reliable AI-powered products.
 
@@ -195,19 +196,19 @@ I'm also learning **Web Security and Cybersecurity** because I believe developer
 
 Areas I'm currently exploring include:
 
-- Web application security
-- API security
-- Authentication
-- Authorization
-- Secure application architecture
-- Common web vulnerabilities
-- Vulnerability analysis
-- Security testing
-- Secure coding practices
-- Data protection
-- Application security
-- Ethical cybersecurity
-- Security-conscious development
+* Web application security
+* API security
+* Authentication
+* Authorization
+* Secure application architecture
+* Common web vulnerabilities
+* Vulnerability analysis
+* Security testing
+* Secure coding practices
+* Data protection
+* Application security
+* Ethical cybersecurity
+* Security-conscious development
 
 I'm particularly interested in understanding security from a developer's perspective — building applications with security considered throughout the development process.
 
@@ -219,18 +220,18 @@ I'm learning how applications work as complete systems rather than just individu
 
 Areas I'm exploring include:
 
-- System architecture
-- Application architecture
-- API architecture
-- Database design
-- Scalability
-- Reliability
-- Authentication flows
-- Service communication
-- Performance
-- Maintainability
-- Security
-- Production environments
+* System architecture
+* Application architecture
+* API architecture
+* Database design
+* Scalability
+* Reliability
+* Authentication flows
+* Service communication
+* Performance
+* Maintainability
+* Security
+* Production environments
 
 ---
 
@@ -246,46 +247,46 @@ Areas I'm exploring include:
 
 ## 🧩 what I can do
 
-- Build responsive web interfaces
-- Build React applications
-- Build Next.js applications
-- Build Flutter applications
-- Convert designs into functional interfaces
-- Connect frontend applications to APIs
-- Integrate third-party APIs and services
-- Work with REST APIs
-- Connect applications to databases
-- Implement authentication flows
-- Work with Firebase and Supabase
-- Build backend services with Node.js
-- Deploy applications
-- Work with Git and GitHub
-- Integrate AI APIs into applications
-- Build security-conscious applications
-- Learn and apply modern software engineering practices
+* Build responsive web interfaces
+* Build React applications
+* Build Next.js applications
+* Build Flutter applications
+* Convert designs into functional interfaces
+* Connect frontend applications to APIs
+* Integrate third-party APIs and services
+* Work with REST APIs
+* Connect applications to databases
+* Implement authentication flows
+* Work with Firebase and Supabase
+* Build backend services with Node.js
+* Deploy applications
+* Work with Git and GitHub
+* Integrate AI APIs into applications
+* Build security-conscious applications
+* Learn and apply modern software engineering practices
 
 ---
 
 ## 🌱 currently focused on
 
-> Becoming a stronger full-stack developer  
-> Learning AI Engineering  
-> Improving Backend Development  
-> Understanding Web Security  
-> Learning Cybersecurity  
-> Improving System Design  
-> Understanding production systems  
-> Building better user experiences  
-> Writing cleaner and maintainable code  
-> Learning modern API architecture  
-> Understanding application security  
+> Becoming a stronger full-stack developer
+> Learning AI Engineering
+> Improving Backend Development
+> Understanding Web Security
+> Learning Cybersecurity
+> Improving System Design
+> Understanding production systems
+> Building better user experiences
+> Writing cleaner and maintainable code
+> Learning modern API architecture
+> Understanding application security
 > Becoming a better software engineer
 
 ---
 
 ## 💭 development philosophy
 
-I don't just write code to complete a task; I build systems to solve real problems. I value continuous iteration, responsive interfaces, clean code structures, and architectural security.
+I don't want to only learn how to write code.
 
 I want to understand **why systems work the way they do.**
 
@@ -344,7 +345,7 @@ I'm interested in the intersection of **design, software engineering, AI, and se
 
 ---
 
-##  let's connect
+## 🤝 let's connect
 
 <p align="center">
   <a href="https://github.com/akintoladoluwagbenga62-ship-it">
