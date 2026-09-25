@@ -339,7 +339,7 @@ I'm interested in the intersection of **design, software engineering, AI, and se
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=akintoladoluwagbenga62-ship-it&theme=algolia&no-bg=true&no-frame=true&column=4"
+    src="https://img.shields.io/github/repo-size/iampavangandhi/Gitwar?color=2948ff&label=Repo%20Size&style=flat-square"
   />
 </p>
 
