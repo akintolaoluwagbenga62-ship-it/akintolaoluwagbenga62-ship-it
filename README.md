@@ -5,7 +5,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="./assets/liquid-glass-header.png" width="100%" alt="sagedev"/>
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=torvalds&theme=mac&scale=0.6" alt="sagedev"/>
 </p>
 
 <p align="center">
