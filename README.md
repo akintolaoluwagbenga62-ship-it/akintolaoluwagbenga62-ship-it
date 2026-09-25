@@ -3,8 +3,9 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="./assets/liquid-glass-header.png" width="100%" alt="sagedev"/>
+  <img src="https://githubusercontent.com" width="100%" alt="sagedev"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=software+engineering+student;frontend+%2B+flutter+developer;full-stack+developer+in+progress;learning+AI+engineering;exploring+web+%26+cyber+security;design.+build.+learn.+ship." />
