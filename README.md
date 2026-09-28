@@ -36,17 +36,12 @@
 </p>
 
 ---
-
-## 👋 whoami
-
-```console
-$ whoami
 sage
 
-$ education
+education
 Software Engineering Student @ Obafemi Awolowo University
 
-$ role
+role
 Frontend Developer · Flutter Developer · Software Engineer
 
 $ stack
