@@ -44,7 +44,7 @@ Software Engineering Student @ Obafemi Awolowo University
 role
 Frontend Developer · Flutter Developer · Software Engineer
 
-$ stack
+stack
 HTML · CSS · JavaScript · TypeScript
 React · Next.js · Tailwind CSS
 Flutter · Dart
@@ -52,17 +52,17 @@ Node.js · Express
 Firebase · Supabase
 REST APIs · API Integration
 
-$ currently_learning
+currently_learning
 AI Engineering
 Backend Development
 Web Security
 Cybersecurity
 System Design
 
-$ mindset
+mindset
 Build. Learn. Break. Fix. Improve.
 
-$ mission
+mission
 Ship things people actually use.
 ```
 
