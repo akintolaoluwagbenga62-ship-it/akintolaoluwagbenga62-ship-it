@@ -12,13 +12,13 @@
   <a href="https://github.com/akintolaoluwagbenga62-ship-it">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE">
+  <a href="https://x.com/sage_devbuilds">
     <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sagestack.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-19E6A0?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=akintolaoluwagbenga62-ship-it&label=Profile%20views&color=19E6A0&labelColor=0A0A0A&style=for-the-badge" alt="views" />
@@ -119,7 +119,7 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 <p align="center">
   <a href="https://github.com/akintoladoluwagbenga62-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+    
   </a>
 </p>
 
@@ -151,7 +151,7 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 I take on freelance projects: landing pages, web apps, dashboards and Flutter apps for businesses that want to look as good as they actually are.
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sagedevbuilds@gmail.com">
     <img src="https://img.shields.io/badge/Start_a_project-19E6A0?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Start a project" />
   </a>
 </p>
