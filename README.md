@@ -74,7 +74,7 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 <p align="center">
   
-    <img src="./assets/bondly-preview.png" width="85%" alt="Bondly preview" />
+  
   </a>
 </p>
 
