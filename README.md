@@ -73,7 +73,7 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 ## Bondly
 
 <p align="center">
-  <a href="https://github.com/akintolaoluwagbenga62-ship-it/bondly-updated">
+  
     <img src="./assets/bondly-preview.png" width="85%" alt="Bondly preview" />
   </a>
 </p>
@@ -88,20 +88,6 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
   </a>
 </p>
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind,vite,supabase,git,github,figma&perline=7&theme=dark" alt="tech stack" />
-</p>
-
----
-
-## What I'm Building
-
-| Project | What it is |
-| :--- | :--- |
 
  <p align="center">
   <img src="./Vigil Logo.png" alt="Vigil Logo" width="220" />
@@ -125,16 +111,21 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind,vite,supabase,git,github,figma&perline=7&theme=dark" alt="tech stack" />
+</p>
+
+---
+
+
 ## What I'm Building
 
 | Project | Description |
 |:---|:---|
 | **SΛVORIN** | An umbrella technology brand focused on building ambitious digital products across AI, software engineering, and cybersecurity. |
-| **Vigil** | A SaaS security scanner for web applications and GitHub repositories. |
-| **Bondly** | A Flutter social platform exploring teen and adult modes, AI moderation, Ghost Mode, and glassmorphism UI. |
-| **Lumen** | An exam-preparation platform for Nigerian students, featuring CBT practice, an AI tutor, study channels, and leaderboards. |
 | **Williams OS** | An AI-powered operating system concept exploring intelligent assistance, automation, and AI-driven workflows. |
-| **Sagedev Portfolio** | A personal portfolio built with React, Vite, TypeScript, Tailwind CSS v4, and Framer Motion, featuring a terminal-inspired identity and mint accents. |
 
 ---
 
