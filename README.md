@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:19E6A0&height=190&section=header" alt="header" />
 
 <h1 align="center">Akintola Oluwagbenga</h1>
-<h3 align="center">a.k.a. sagedev · Frontend Developer · Ile-Ife, Nigeria</h3>
+<h3 align="center">Sagedev · Frontend Developer · Ile-Ife, Nigeria</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=19E6A0&center=true&vCenter=true&width=700&lines=Building+products+solo%2C+from+idea+to+APK;Flutter+%2B+React+%2B+TypeScript;Interfaces+that+feel+expensive;Open+to+freelance+work" alt="typing" />
