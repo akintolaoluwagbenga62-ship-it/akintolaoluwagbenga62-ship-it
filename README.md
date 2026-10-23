@@ -102,9 +102,32 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 | Project | What it is |
 | :--- | :--- |
-| **[Bondly](https://github.com/akintolaoluwagbenga62-ship-it/bondly-updated)** | Flutter social platform with teen/adult modes, AI moderation, ghost mode and glassmorphism UI. |
+
+ <p align="center">
+  <img src="./Vigil Logo.png" alt="Vigil Logo" width="220" />
+</p>
+
+<h1 align="center">Vigil</h1>
+
+<p align="center">
+  <strong>See vulnerabilities before they become problems.</strong>
+</p>
+
+<p align="center">
+  Security scanning for web applications and GitHub repositories.
+</p>
+
+<p align="center">
+  <a href="https://github.com/akintoladoluwagbenga62-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+  </a>
+</p>
+
+---
+
+| **[Bondly]** | Flutter social platform with teen/adult modes, AI moderation, ghost mode and glassmorphism UI. |
 | **Lumen** | Exam-prep platform for Nigerian students (JAMB, WAEC, NECO, PUTME) with CBT practice, an AI tutor, study channels and a leaderboard. |
-| **SiteLens** | SaaS security scanner for web apps and GitHub repositories. |
+
 | **sagedev portfolio** | My own portfolio site in React, Vite, TypeScript, Tailwind v4 and Framer Motion, built around a terminal-style identity with a mint accent. |
 
 ### Shipped and wrapped
