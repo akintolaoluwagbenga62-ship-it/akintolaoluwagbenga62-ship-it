@@ -125,19 +125,24 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 ---
 
-| **[Bondly]** | Flutter social platform with teen/adult modes, AI moderation, ghost mode and glassmorphism UI. |
-| **Lumen** | Exam-prep platform for Nigerian students (JAMB, WAEC, NECO, PUTME) with CBT practice, an AI tutor, study channels and a leaderboard. |
+## What I'm Building
 
-| **sagedev portfolio** | My own portfolio site in React, Vite, TypeScript, Tailwind v4 and Framer Motion, built around a terminal-style identity with a mint accent. |
+| Project | Description |
+|:---|:---|
+| **SΛVORIN** | An umbrella technology brand focused on building ambitious digital products across AI, software engineering, and cybersecurity. |
+| **Vigil** | A SaaS security scanner for web applications and GitHub repositories. |
+| **Bondly** | A Flutter social platform exploring teen and adult modes, AI moderation, Ghost Mode, and glassmorphism UI. |
+| **Lumen** | An exam-preparation platform for Nigerian students, featuring CBT practice, an AI tutor, study channels, and leaderboards. |
+| **Williams OS** | An AI-powered operating system concept exploring intelligent assistance, automation, and AI-driven workflows. |
+| **Sagedev Portfolio** | A personal portfolio built with React, Vite, TypeScript, Tailwind CSS v4, and Framer Motion, featuring a terminal-inspired identity and mint accents. |
 
-### Shipped and wrapped
+---
 
-| Project | What it is |
-| :--- | :--- |
-| **SageCalc** | Flutter scientific calculator with a hand-written recursive-descent expression parser and calculation history. Built for an academic project defense. |
-| **CampAuse** | Campus admin panel in a single HTML file, with dark/light mode and a working notification system. |
-| **ScholarsNode** | Anonymous social platform for scholars, with an end-to-end encryption boot animation and a hostel booking wizard. |
-| **Laykay Graphics** | Landing page for a client's graphics design business. |
+<p align="center">
+  <sub>Independent projects. Ambitious ideas. Built to ship.</sub>
+</p>
+
+
 
 ---
 
