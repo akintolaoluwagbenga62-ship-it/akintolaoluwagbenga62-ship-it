@@ -55,7 +55,7 @@ const sage = Developer(
   role: 'Frontend Developer & University Student',
   base: 'Ile-Ife, Osun State, Nigeria',
   stack: ['Flutter', 'React', 'TypeScript', 'Tailwind', 'Supabase'],
-  building: 'Bondly, Lumen, SiteLens',
+  
   openToFreelance: true,
 );
 ```
@@ -68,74 +68,7 @@ Most of my work is **Flutter apps** and **React + TypeScript frontends**, plus a
 
 ---
 
-# Featured Projects
 
-## Bondly
-
-<p align="center">
-  
-  
-  </a>
-</p>
-
-### A social app that takes safety seriously.
-
-**Bondly** is a Flutter social platform with separate teen and adult modes, AI moderation, anonymous posting and ghost mode. It has a feed, DMs and group chats, all wrapped in a glassmorphism UI with a black, white and green palette.
-
-<p align="center">
-  <a href="https://github.com/akintolaoluwagbenga62-ship-it/bondly-updated">
-    <img src="https://img.shields.io/badge/Explore_Bondly-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Bondly Repository" />
-  </a>
-</p>
-
-
- <p align="center">
-  <img src="./Vigil Logo.png" alt="Vigil Logo" width="220" />
-</p>
-
-<h1 align="center">Vigil</h1>
-
-<p align="center">
-  <strong>See vulnerabilities before they become problems.</strong>
-</p>
-
-<p align="center">
-  Security scanning for web applications and GitHub repositories.
-</p>
-
-<p align="center">
-  <a href="https://github.com/akintoladoluwagbenga62-ship-it">
-    
-  </a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind,vite,supabase,git,github,figma&perline=7&theme=dark" alt="tech stack" />
-</p>
-
----
-
-
-## What I'm Building
-
-| Project | Description |
-|:---|:---|
-| **SΛVORIN** | An umbrella technology brand focused on building ambitious digital products across AI, software engineering, and cybersecurity. |
-| **Williams OS** | An AI-powered operating system concept exploring intelligent assistance, automation, and AI-driven workflows. |
-
----
-
-<p align="center">
-  <sub>Independent projects. Ambitious ideas. Built to ship.</sub>
-</p>
-
-
-
----
 
 ## Work With Me
 
