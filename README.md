@@ -92,7 +92,7 @@ I take on freelance projects: landing pages, web apps, dashboards and Flutter ap
 </p>
 
 ---
-
+<img src="https://github-readme-zodiac.vercel.app/api/card?username=akintolaoluwagbenga62-ship-it&birthdate=2009-08-01">
 ## Philosophy
 
 <p align="center">
