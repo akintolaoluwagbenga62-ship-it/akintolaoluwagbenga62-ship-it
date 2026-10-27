@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=800&color=19E6A0&center=true&vCenter=true&width=700&lines=Building+products+solo%2C+from+idea+to+APK;Flutter+%2B+React+%2B+TypeScript;Interfaces+that+feel+expensive;Open+to+freelance+work" alt="typing" />
 </p>
-
 <p align="center">
   <a href="https://github.com/akintolaoluwagbenga62-ship-it">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,7 +23,11 @@
   <img src="https://komarev.com/ghpvc/?username=akintolaoluwagbenga62-ship-it&label=Profile%20views&color=19E6A0&labelColor=0A0A0A&style=for-the-badge" alt="views" />
 </p>
 
----
+<p align="center">
+  <a href="https://github-readme-insight-terminal-asci.vercel.app/svg?user=akintolaoluwagbenga62-ship-it&theme=mac">
+    <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=akintolaoluwagbenga62-ship-it&theme=mac" alt="GitHub Terminal Stats" />
+  </a>
+</p>
 
 ## About Me
 
